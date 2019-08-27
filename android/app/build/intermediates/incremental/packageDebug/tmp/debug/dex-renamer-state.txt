@@ -1,0 +1,4 @@
+#Sat May 11 13:41:57 ICT 2019
+base.0=/Users/nguyenvantoan/Desktop/SongThienYeu/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
